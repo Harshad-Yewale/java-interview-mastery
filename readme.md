@@ -48,7 +48,7 @@ SOLID → DTOs → APIs → Architecture → Debugging → Interview Mastery
 - OOP & advanced OOP
 - Interview revision
 
-👉 **[Open Handbook 1](./handbooks/01-java-foundations-and-oop/)**
+👉 **[Open Handbook 1](./handbooks/Java_Handbook1_Foundations_and_OOP.pdf)**
 
 ### 📙 Handbook 2 — Core Java Essentials
 **The interviewer's favorite topics**
