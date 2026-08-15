@@ -59,7 +59,7 @@ SOLID → DTOs → APIs → Architecture → Debugging → Interview Mastery
 - Date-Time API
 - Reflection & Annotations
 
-👉 **[Open Handbook 2](./handbooks/02-core-java-essentials/)**
+👉 **[Open Handbook 2](./handbooks/Java_Handbook2_Core_Java_Essentials.pdf)**
 
 ### 📗 Handbook 3 — Collections & Modern Java
 **The coding-round weapon**
