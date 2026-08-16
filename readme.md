@@ -70,7 +70,7 @@ SOLID → DTOs → APIs → Architecture → Debugging → Interview Mastery
 - Pattern Matching
 - Java 17 / 21 features
 
-👉 **[Open Handbook 3](./handbooks/03-collections-and-modern-java/)**
+👉 **[Open Handbook 3](./handbooks/Java_Handbook3_Collections_and_Modern_Java.pdf)**
 
 ### 📕 Handbook 4 — Multithreading, JVM & Performance
 **What separates strong backend candidates**
