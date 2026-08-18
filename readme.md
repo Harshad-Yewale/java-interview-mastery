@@ -81,7 +81,7 @@ SOLID → DTOs → APIs → Architecture → Debugging → Interview Mastery
 - Garbage Collection
 - Performance tuning
 
-👉 **[Open Handbook 4](./handbooks/04-multithreading-jvm-performance/)**
+👉 **[Open Handbook 4](./handbooks/Java_Handbook4_Multithreading_JVM_Performance.pdf)**
 
 ### 📓 Handbook 5 — Backend Java & Interview Mastery
 **The final placement revision**
