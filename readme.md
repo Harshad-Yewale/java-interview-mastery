@@ -93,7 +93,7 @@ SOLID → DTOs → APIs → Architecture → Debugging → Interview Mastery
 - Output prediction
 - **Top 100 interview Q&A**
 
-👉 **[Open Handbook 5](./handbooks/05-backend-java-interview-mastery/)**
+👉 **[Open Handbook 5](./handbooks/Java_Handbook5_Backend_Java_Interview_Mastery.pdf)**
 
 ---
 
